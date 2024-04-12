@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NoahGoldfarb
+- 👀 I’m interested in Mathematics and AI
+- 🌱 I’m currently learning Artificial Intelligence
+- 😄 Pronouns: he/him
